@@ -11,7 +11,7 @@ Project list - For each course I have provided provided a course content availab
 
 In this course, we give you a framework to help you organize and plan your analytical approach. We also introduce both simple Linear Regression and Multiple Linear Regression.
 
-Part 1 [2 Creating an Analytical-Dataset](https://github.com/EmilKos/Predictive-Analytics-for-Business-Nanodegree-Program/tree/master/2-Creating-an-Analytical-Dataset)
+[2 Creating an Analytical-Dataset](https://github.com/EmilKos/Predictive-Analytics-for-Business-Nanodegree-Program/tree/master/2-Creating-an-Analytical-Dataset)
 
 Data Wrangling is at the core of all data activity. In this course you learn how to work with different data types,dirty data, and outliers. You will also learn how to reformat data and join data from different sources together.
 
